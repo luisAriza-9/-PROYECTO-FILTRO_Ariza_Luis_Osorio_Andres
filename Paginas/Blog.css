@@ -303,8 +303,8 @@ footer div p{
   .card-inner {
     width: inherit;
     height: inherit;
-    background: rgba(255, 119, 214, 0.747);
-    box-shadow: 0 0 10px rgba(223, 6, 96, 0.541);
+    background: rgba(216, 162, 200, 0.747);
+    box-shadow: 0 0 10px rgba(77, 2, 33, 0.541);
     backdrop-filter: blur(10px);
     border-radius: 8px;
   }
@@ -316,7 +316,7 @@ footer div p{
   .circle {
     width: 100px;
     height: 100px;
-    background: radial-gradient(#e633e6, #c5508a);
+    background: radial-gradient(#e096e0, #c5508a);
     border-radius: 50%;
     position: absolute;
     animation: move-up6 2s ease-in infinite alternate-reverse;
