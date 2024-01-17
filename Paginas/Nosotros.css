@@ -1,4 +1,9 @@
-/* Estilos generales */
+
+
+
+
+
+
 body {
     margin: 0;
     padding: 0;
@@ -7,15 +12,15 @@ body {
     background-size: contain;
 }
 
-/* Estilos del encabezado */
+
 header {
-    background-color: #0a0a0a;
-    color: #080808;
+    background-color: rgb(241, 189, 201);
+    color: #9e0303;
     text-align: center;
     padding: 20px 0;
 }
 
-/* Estilos de la sección "Nosotros" */
+
 .nosotros {
     
     padding: 50px 0;
@@ -29,12 +34,12 @@ header {
 
 .nosotros h1 {
     font-size: 36px;
-    color: #0a0a0a;
+    color: #b4105d;
 }
 
 .nosotros p {
     font-size: 18px;
-    color: #000000;
+    color: rgb(243, 7, 137);
 }
 
 .fondo{
