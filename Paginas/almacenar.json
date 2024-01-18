@@ -31,7 +31,7 @@
     }
     
     ],
-    "mouse":[{
+    "blusas":[{
         "id":1,
         "nombre":"",
         "precio": 220000,
@@ -39,7 +39,7 @@
     },
     {
         "id":2,
-        "nombre":"inpact",
+        "nombre":"",
         "precio": 218000,
         "img": ""
     },
@@ -52,13 +52,13 @@
     ,
     {
         "id":4,
-        "nombre":"griffin",
+        "nombre":"",
         "precio": 330000,
         "img": ""
     },
     {
         "id":5,
-        "nombre":"dagger",
+        "nombre":"",
         "precio": 310000,
         "img": ""
     }
@@ -66,34 +66,34 @@
         
         
     ],
-    "audio":[{
+    "conjuntos":[{
         "id":1,
-        "nombre":"zeus",
+        "nombre":"",
         "precio": 520000,
         "img": ""
     },
     {
         "id":2,
-        "nombre":"ireblue",
+        "nombre":"",
         "precio": 212000,
         "img": ""
     },
     {
         "id":3,
-        "nombre":"pandora",
+        "nombre":"",
         "precio": 230000,
         "img": ""
     }
     ,
     {
         "id":4,
-        "nombre":"blazar",
+        "nombre":"",
         "precio": 440000,
         "img": ""
     },
     {
         "id":5,
-        "nombre":"quazar",
+        "nombre":"",
         "precio": 310000,
         "img": ""
     }
@@ -101,30 +101,30 @@
         
         
     ],
-    "pads":[{
+    "trajesdebaño":[{
         "id":1,
-        "nombre":"flicks",
+        "nombre":"",
         "precio": 80000,
-        "img": "/home/user/Documentos/JavaScript__2023-1/proyecto/imagenesproductos/pads/FLICK-S.png"
+        "img": ""
     },
     {
         "id":2,
-        "nombre":"epeius",
+        "nombre":"",
         "precio": 120000,
-        "img": "/home/user/Documentos/JavaScript__2023-1/proyecto/imagenesproductos/pads/EPEIUS-3.png"
+        "img": ""
     },
     {
         "id":3,
-        "nombre":"kunklun",
+        "nombre":"",
         "precio": 130000,
-        "img": "/home/user/Documentos/JavaScript__2023-1/proyecto/imagenesproductos/pads/KUNLUN-L.png"
+        "img": ""
     }
     ,
     {
         "id":4,
-        "nombre":"piscies",
+        "nombre":"",
         "precio": 440000,
-        "img": "/home/user/Documentos/JavaScript__2023-1/proyecto/imagenesproductos/pads/PISCIES-1.png"
+        "img": "."
     }
   
         
@@ -134,7 +134,7 @@
         "id":1,
         "nombre":"",
         "compras": "",
-        "img": "/home/user/Documentos/JavaScript__2023-1/proyecto/imagenesproductos/mouse/STORM.png"
+        "img": ""
     }
   
         
