@@ -1,66 +1,66 @@
 {
     "bolsos":[{
         "id":1,
-        "nombre":"kurumaK552",
+        "nombre":"",
         "precio": 230000,
         "img": ""
     },
     {
         "id":2,
-        "nombre":"horusK618",
+        "nombre":"",
         "precio": 280000,
-        "img": "../proyecto/imagenesproductos/teclados/HORUS.png"
+        "img": ""
     },
     {
         "id":3,
-        "nombre":"FizzPro",
+        "nombre":"",
         "precio": 380000,
-        "img": "/proyecto/imagenesproductos/teclados/fizzpro.png"
+        "img": ""
     },
     {
         "id":4,
-        "nombre":"Deimos",
+        "nombre":"",
         "precio": 300000,
-        "img": "/proyecto/imagenesproductos/teclados/DEIMOS.png"
+        "img": ""
     },
     {
         "id":5,
-        "nombre":"Diti",
+        "nombre":"",
         "precio": 180000,
-        "img": "/proyecto/imagenesproductos/teclados/DITI.png"
+        "img": ""
     }
     
     ],
     "mouse":[{
         "id":1,
-        "nombre":"storm",
+        "nombre":"",
         "precio": 220000,
-        "img": "/home/user/Documentos/JavaScript__2023-1/proyecto/imagenesproductos/mouse/STORM.png"
+        "img": ""
     },
     {
         "id":2,
         "nombre":"inpact",
         "precio": 218000,
-        "img": "/home/user/Documentos/JavaScript__2023-1/proyecto/imagenesproductos/mouse/IMPACT.png"
+        "img": ""
     },
     {
         "id":3,
-        "nombre":"cobrafps",
+        "nombre":"",
         "precio": 230000,
-        "img": "/home/user/Documentos/JavaScript__2023-1/proyecto/imagenesproductos/mouse/COBRA-FPS.png"
+        "img": ""
     }
     ,
     {
         "id":4,
         "nombre":"griffin",
         "precio": 330000,
-        "img": "/home/user/Documentos/JavaScript__2023-1/proyecto/imagenesproductos/mouse/GRIFFIN-W.png"
+        "img": ""
     },
     {
         "id":5,
         "nombre":"dagger",
         "precio": 310000,
-        "img": "/home/user/Documentos/JavaScript__2023-1/proyecto/imagenesproductos/mouse/DAGGER.png"
+        "img": ""
     }
   
         
@@ -70,32 +70,32 @@
         "id":1,
         "nombre":"zeus",
         "precio": 520000,
-        "img": "/home/user/Documentos/JavaScript__2023-1/proyecto/imagenesproductos/audio/ZEUS-X-W-B.png"
+        "img": ""
     },
     {
         "id":2,
         "nombre":"ireblue",
         "precio": 212000,
-        "img": "/home/user/Documentos/JavaScript__2023-1/proyecto/imagenesproductos/audio/ireblue.png"
+        "img": ""
     },
     {
         "id":3,
         "nombre":"pandora",
         "precio": 230000,
-        "img": "/home/user/Documentos/JavaScript__2023-1/proyecto/imagenesproductos/audio/PANDORA-1.png"
+        "img": ""
     }
     ,
     {
         "id":4,
         "nombre":"blazar",
         "precio": 440000,
-        "img": "/home/user/Documentos/JavaScript__2023-1/proyecto/imagenesproductos/audio/BLAZAR.png"
+        "img": ""
     },
     {
         "id":5,
         "nombre":"quazar",
         "precio": 310000,
-        "img": "/home/user/Documentos/JavaScript__2023-1/proyecto/imagenesproductos/audio/QUAZAR-1.png"
+        "img": ""
     }
   
         

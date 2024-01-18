@@ -1,6 +1,6 @@
 
 
-<script>
+
 
 	function hamburguer() {
 		  let info = document.getElementById('menu');
@@ -164,7 +164,7 @@
 			InicioExitoso.style.display = (InicioExitoso.style.display === 'none') ? 'flex' : 'none'; 
 		})
 	  
-	</script>
+
 	
 
 
