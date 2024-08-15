@@ -4,7 +4,7 @@ body{
 	font-weight: 300;
 	line-height: 1.7;
 	color: #070707;
-    background-color: #f4eff5fd;
+    background-color: rgb(219, 219, 219);;
   }
             
 .inicio{
@@ -22,10 +22,10 @@ a:hover {
 	text-decoration: none;
 }
 .link {
-  color: #68295d;
+  color: #2c212a;
 }
 .link:hover {
-  color: #693865;
+  color: #a89aa7;
 }
 p {
   font-weight: 500;
@@ -145,7 +145,7 @@ display: none;
   line-height: 22px;
   letter-spacing: 0.5px;
   outline: none;
-  color: #c4c3ca;
+  color: #212122;
   background-color: #fad5f8ab;
   border: none;
   -webkit-transition: all 200ms linear;
@@ -183,11 +183,11 @@ display: none;
   display: -ms-inline-flexbox;
   display: inline-flex;
   align-items: center;
-  background-color: #a11994;
+  background-color: #818081;
   color: #000000;
 }
 .btn:hover{  
-  background-color: #a11994;
+  background-color: #ec9fe5;
   color: #131212;
   box-shadow: 0 8px 24px 0 rgba(113, 13, 133, 0.363);
 }
